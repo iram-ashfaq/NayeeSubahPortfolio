@@ -15,13 +15,19 @@ const Header = () => {
         {
             name: "Slills",
             link: "#skills"
+        },
+        {
+            name: "Services",
+            link: "#services"
         }
     ]
 
     return (
 
         <header>
-            <h1>Hassan.</h1>
+            <h1>Iram Ashfaq
+                
+                .</h1>
 
             <div className='navitems'>
                 {headerData.map((item, index) => {
