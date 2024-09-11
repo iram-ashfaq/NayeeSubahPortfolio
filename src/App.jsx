@@ -24,7 +24,8 @@ function App() {
         <About />
         <Skills />
         <Services />
-        <h1>Portfolio</h1>
+        
+        
         <h1>Contact</h1>
       </div>
     </>

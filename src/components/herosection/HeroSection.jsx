@@ -59,13 +59,12 @@ const HeroSection = () => {
 
 
           <h2>Frontend Developer</h2>
-          <p>Lorem ipsum,  sit amet consectetur adipisicing elit. Reiciendis est sequi, deleniti optio exercitationem, magni repellat totam rerum perspiciatis porro et tempora autem repudiandae iusto? Suscipit nesciunt illum consectetur quibusdam?</p>
+          <p>This is my official portfolio website to showcase my all works related to web development and ui design.</p>
         </div>
 
         <Buttons btnTitle={"Say Hello"} btnIcon={<FaTelegramPlane />} />
         
       </div>
-
       <div className='herosection-image-container'>
         <img src={picture} />
       </div>
